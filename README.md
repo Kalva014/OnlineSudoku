@@ -3,6 +3,7 @@
 
 # Importance and Interests:
 * Learn about socket programming to allow for network communication
+* Learn about threading and how that relates to programming
 * Implement a database to track high scores
 
 # Class Diagram:
@@ -14,3 +15,4 @@
 * Modules:
   * Pygame
   * Socket
+  * Threading
